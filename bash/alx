@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-
-=======
-.e #!/bin/bash
->>>>>>> 7b265171062d574dbc033f3f8b8a6640d0f11e7c
-=======
+ #!/bin/bash
 echo "ALX School"
->>>>>>> update_script
